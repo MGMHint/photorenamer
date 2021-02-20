@@ -1,0 +1,473 @@
+﻿Locality,objectnum,Length
+"Cerro Negro Mine, Carrizalillo, near Salado, Chile","2020.7.2430, 2020.7.2476, 2020.7.2541, 2020.7.2559, 2020.7.2560, 2020.7.2567",76
+"Mina Cesucha, 10 km from Sierra Gorda, Antofagasta, Chile","2020.7.2586, 2020.7.2649, 2020.7.2665, 2020.7.2666, 2020.7.2667, 2020.7.2668",76
+"Chapacase mine, Sierra Cerillos Mining Dist., Tocopilla, Chile","2020.7.2434, 2020.7.2449, 2020.7.2603, 2020.7.2604, 2020.7.2615",63
+"Chuquicamata, Chile","2020.7.2473, 2020.7.2637, 2020.7.2642, 2020.7.2645, 2020.7.2652",63
+"Star of the Congo Mine, Lubumbashi, Katanga, Congo","2020.7.2425, 2020.7.3204, 2020.7.3205, 2020.7.3213, 2020.7.3215",63
+"Los Azules Mine, Quebrada San Miguel Mining District, nr Paipote, Chile","2020.7.2448, 2020.7.2471, 2020.7.2585, 2020.7.2617, 2020.7.2888",63
+"Soledad Mine, Guanaco Mining District, near Taltal, Chile","2020.7.2451, 2020.7.2454, 2020.7.2466, 2020.7.2467, 2020.7.2482",63
+"Chenmenshan Mine, Jiujiang, Jiangxi Prov., China  ","2020.7.3091, 2020.7.3128, 2020.7.3131, 2020.7.3132",50
+"Dzezkazgan, Kazakhstan","2020.7.2315, 2020.7.2330, 2020.7.2342, 2020.7.2378",50
+"Trepca near Mitrovica, Kosovska Mun., Kosovo","2020.7.2816, 2020.7.2818, 2020.7.2819, 2020.7.2820",50
+"Huaron, Peru","2020.7.2867, 2020.7.2724, 2020.7.2725",37
+"Huanzala, Peru","2020.7.2701, 2020.7.2742, 2020.7.2743",37
+"Jalgoan, India","2020.7.2335, 2020.7.2336, 2020.7.2405",37
+"Jianshan Fe deposit, Kuruktag Mts., Shanahan Co., N. of Lop Nur, Xinjiang Province, Northern China","2020.7.3104, 2020.7.3123, 2020.7.3162",37
+"La Libertad, Quiruvilca, Peru","2020.7.2680, 2020.7.2704, 2020.7.2753",37
+"Mina Alcaparrosa, Cerrotos Bayos, Atacama Desert, Region II, Chile","2020.7.2547, 2020.7.2552, 2020.7.2558",37
+"Mina Siglo Vente, Bustillo Province, Potosi, Bolivia","2020.7.2805, 2020.7.2808, 2020.7.2809",37
+"Poderosa Mine, Sierra Gorda, Caracoles Dist., Antofagasta, Chile","2020.7.2556, 2020.7.2575, 2020.7.2576",37
+"Rosario Mabel Mine, Castrovirreyna, Huancavelica, Peru","2020.7.2741, 2020.7.2747, 2020.7.2748",37
+"Wagoli, near Poona, India","2020.7.2872, 2020.7.2879, 2020.7.2899",37
+"Yunnan Province, China","2020.7.3166, 2020.7.3173, 2020.7.3185",37
+"Zhangergou Mine, Lushi, Henan Province, China   ","2020.7.2780, 2020.7.3046, 2020.7.3058",37
+"Xikuangshan Mine, Lengshuijian, Hunan Province, China","2020.7.2796, 2020.7.3146",24
+"Jinkoue, Sichuan Province, China","2020.7.2797, 2020.7.3165",24
+"Jinkouhe, Leshan, Sichuan Province, China","2020.7.2795, 2020.7.2798",24
+"Jinglong, Guangdong Province, China","2020.7.3171, 2020.7.3172",24
+"Jinlong, Guangdong Province, China","2020.7.3032, 2020.7.2935",24
+"Mundo Nuevo, Huamachuco, La Libertad, Peru","2020.7.2693, 2020.7.2719",24
+"Xuebaoding, Sichuan Prov., China","2020.7.3080, 2020.7.3099",24
+"San Samuel Mine, Carrera Pinto, Chile","2020.7.2443, 2020.7.2619",24
+"San Samuel Mine, Carrera Pinto, inca de Oro, Chile","2020.7.2472, 2020.7.2643",24
+"Wushan Mine, Tongbei Area, Fujian Province, China  ","2020.7.3011, 2020.7.3190",24
+"Wushan Spessartine Mine, Tongbei, Xunxiao, Fujian Province, China","2020.7.3017, 2020.7.3096",24
+"Capitana Mine, Ladrillos District, Copiapo Prov., Atacama Region, Chile","2020.7.2479, 2020.7.2489",24
+"Chongyi, Ganzhou, Jiangxi Province, China","2020.7.3100, 2020.7.2950",24
+"Confinaza Mine, Tilama, 5th Province, Valparizo, Chile","2020.7.2438, 2020.7.2446",24
+"Dashkesan, Azerbaijan","2020.7.2846, 2020.7.3201",24
+"Poona, India","2020.7.3200, 2020.7.3209",24
+"Raura, Lima Department, Peru","2020.7.2755, 2020.7.2757",24
+"Salvador Mine, Salvador, Chile","2020.7.2436, 2020.7.2538",24
+"San Pablo Mine, inca de Oro, Copiapo Region, Chile","2020.7.2439, 2020.7.2474",24
+"Wessels Mine, Kuruman, Kalahari Mn area, Cape Province, South Africa","2020.7.2321, 2020.7.2371",24
+"Xinjiang Province, China  ","2020.7.3024, 2020.7.3041",24
+"2nd Sovietskiy Mine, Dal'negorsk, Primorsky Kray, Eastern Russia","2020.7.3211, 2020.7.3217",24
+"Anninskaya Mine, Dzhezkazgan, Kazakhstan","2020.7.2365, 2020.7.2389",24
+"Bench C-2, Chuquicamata, Chile","2020.7.2620, 2020.7.2646",24
+"Bertha Mine, Baquedano, Chile","2020.7.2503, 2020.7.2511",24
+"Buritis, Diamantina, Minas Gerais, Brazil","2020.7.2327, 2020.7.2355",24
+"Carmen Mine, El Salado, Chile","2020.7.2540, 2020.7.2579",24
+"Chimbote, Ancash, Peru","2020.7.2696, 2020.7.2711",24
+"Dali, Yunnan Province, China","2020.7.3168, 2020.7.3187",24
+"Dayu, Jiangxi Province, China ","2020.7.2982, 2020.7.3148",24
+"Dulcinea Mine, Carrera Pinto, Chile","2020.7.2440, 2020.7.2647",24
+"East Mine, Bayan-Obo, inner Mongolia  ","2020.7.3109, 2020.7.3127",24
+"El Azul Mine, Los Azules District, Copiapo Prov., Atacama Region, Chile","2020.7.2490, 2020.7.2508",24
+"Gaoligongshan, Yunnan Province, China","2020.7.2988, 2020.7.3039",24
+"Handan Mine, Hebei Province, China   ","2020.7.3122, 2020.7.3161",24
+"Haydee Mine, Salar Grande, Iquique, Region 1, Atacama Desert, Chile","2020.7.2483, 2020.7.2484",24
+"Huancavelica, Peru","2020.7.2727, 2020.7.2728",24
+"Jaguaracu, Minas Gerais, Brazil","2020.7.2323, 2020.7.2870",24
+"Knappenwand, Untersulzbachtal, Tyrol, Austria","2020.7.2319, 2020.7.2855",24
+"Lily Mine, near Pisco, Ica Dept., Peru","2020.7.2453, 2020.7.2906",24
+"Liu Fang Shan Mine, Anhui Province, China  ","2020.7.3087, 2020.7.3164",24
+"Lushe, Henan Province, China","2020.7.2781, 2020.7.3102",24
+"Maria Catalina Mine, Pampa Larga Mining Dist., Tierra Amarilla, Chile","2020.7.2477, 2020.7.2491",24
+"Meigu Quartz quarry, Liangshan  Prefecture, Sichuan Province, China","2020.7.3005, 2020.7.3006",24
+"Mibladen, near Midelt, Morocco","2020.7.2894, 2020.7.2938",24
+"near Hezhou, Guangxi Province, China","2020.7.3022, 2020.7.3023",24
+"near Kharan, Baluchistan, Pakistan","2020.7.2869, 2020.7.2929",24
+"Niccioleta Mine, Massa Marittima, Grosseto Prov., Tuscany, Italy ","2020.7.2933, 2020.7.2961",24
+"Panzhihua, Sichuan Province, China","2020.7.3176, 2020.7.3195",24
+"Perseverancia Mine, Guanaco Mining District, 2nd Region, Antofagasta, Chile","2020.7.2663, 2020.7.2664",24
+"Phalabora Mine, Transvaal, South Africa","2020.7.2392, 2020.7.2393",24
+"Racracancha Mine, Cerro de Pasco, Peru","2020.7.2807, 2020.7.2685",24
+"Rosalia Mine, inca de Oro, Chile","2020.7.2516, 2020.7.2535",24
+"San Jose Mine, Oruro, Bolivia","2020.7.2347, 2020.7.2959",24
+"Sanjiang, Lianzhou Co., Guangdong Province, China","2020.7.3013, 2020.7.3071",24
+"Viente Cinco vein, Magallanes, 88 km East of Antofagasta, Region II, Chile","2020.7.2533, 2020.7.2650",24
+"Viva Chile Mine, Carrera Pinto, Chile","2020.7.2518, 2020.7.2537",24
+"White Dam area, Harts Range, N. Territory, Australia","2020.7.2840, 2020.7.2841",24
+"Xianghuapu Mine, Linwu, Hunan Province, China  ","2020.7.3093, 2020.7.3134",24
+"Chapacase mine, near Maria Elena, Sierra Cerillos Mining Dist., Tocopilla, Chile",2020.7.2450,11
+"Chuquicamata, Antofagasta, Chile",2020.7.2640,11
+"Star of the Congo Mine, Lubumbashi, Congo",2020.7.3220,11
+"Xi Kuangshan Mine, L eng Shui Jiang, Bhaoyang Co., Hunan Province, China ",2020.7.3038,11
+"Xikuangshan, Lengshuijiang, Shaoyang, Hunan Prov., China",2020.7.2964,11
+"Xikuangshan Mine, Hunan Province, China  ",2020.7.3059,11
+"Xikuangshan Mine, Lengshuijiang City, Hunan Province, China",2020.7.3020,11
+"Chenmenshan Mine, Juijiang, Jiangxi Prov., China  ",2020.7.3129,11
+"Huaron, Cerro de Pasco, Peru",2020.7.2718,11
+"Huaron Mine, San Jose de Huayllay Dist., Cerro de Pasco, Alcides Carrion Prov., Pasco Dept., Peru",2020.7.2686,11
+"Jinkouhi, Sichuan Prov., China",2020.7.2907,11
+"Jinlong Mine, Guangdong Prov., China   ",2020.7.3048,11
+"Mundo Nuevo, La Libertad, Peru",2020.7.2842,11
+"Mundo Nuevo, near Pasto Bueno, La Libertad, Peru",2020.7.2722,11
+"Mundo Nuevo, Peru",2020.7.2679,11
+"Xuebaoding,  Bichuan Prov., China",2020.7.2998,11
+"Xuebaoding, Pingwu Co., Sichuan Province, China ",2020.7.3113,11
+"Xuebaoding Mountain, Sichuan Province, China",2020.7.2945,11
+"Animon Mine, Huaron, San Jose de Huayllay Dist., Cerro de Pasco Prov., Peru",2020.7.2849,11
+"Animon Mine, South Huaron, Huayllay Dist., Pasco Prov., Peru",2020.7.2803,11
+"Animon Mine, S. Huaron area, Pasco Prov., Peru",2020.7.2688,11
+"Animon Mine, San Jose de Huayllay Dist., Pasco Dept., Peru",2020.7.2687,11
+"Dachang Antimony Mine, Qinglong Co., Guizhou Province, China ",2020.7.3015,11
+"Dachang antimony Mine, Quinglong County, Guizhou Prov., China  ",2020.7.3075,11
+"Dachang Mine, Guangxi Province, China  ",2020.7.3077,11
+"Dachang Mine, Nandan County, Guangxi Zhuang A.R., China  ",2020.7.3066,11
+"Huanzala Mine, Huanuco Dept., Peru",2020.7.2754,11
+"Babu, Guangxi Province, China",2020.7.3196,11
+"Babu, Hezhou, Guangxi Province, China",2020.7.2997,11
+"Babu Mine, Guangxi Province, China",2020.7.3068,11
+"Capitana Mine, near Copiapo, Chile",2020.7.2555,11
+"Chenzhou, Hunan Province, China",2020.7.3045,11
+"Chenzhou, S. Hunan Prov., People's Republic of China",2020.7.3182,11
+"Chenzhou, South Hunan Province, China",2020.7.3177,11
+"Chongyi, Ganzhou, Jiangxi Prov., China  ",2020.7.3081,11
+"Confinaza Mine, Tilama, Chile",2020.7.2445,11
+"Dashkesan, Azerbaidzhan, Russia",2020.7.2889,11
+"Hongda Mn Mine, near Quguo, Lingqui County Shanxi Province, China",2020.7.2994,11
+"Hongda Mn Mine, near Quguo, Lingqui County, Shanxi Province, China",2020.7.3124,11
+"Hongde Mn Mine, near Quguo, Lingqui County Shanxi Province, China",2020.7.2971,11
+"Piaotang, Dayu County, Jiangxi Province, China",2020.7.3014,11
+"Piaotang, Dayu, Jiangxi Province, China",2020.7.2981,11
+"Piaotang, Jiangxi Prov., China",2020.7.3072,11
+"Poona, Inda",2020.7.3222,11
+"Raura, Peru",2020.7.2738,11
+"Salvador Mine, Sierra Gorda Dist., Tocopilla Prov., Antofagasta, Chile",2020.7.2487,11
+"San Pablo Mine, inca de Oro, Chile",2020.7.2441,11
+"Wenshan, Yunnan Province, China",2020.7.3163,11
+"Wenshan Mine, S. Eastern Yunnan Province, China",2020.7.3186,11
+Wenxian Ganzu/Sichuan border zone China ,2020.7.3141,11
+"Wessels Mine, Kalahari Mn area, Cape Province, South Africa",2020.7.2898,11
+"Xinjiang Autonomous Region, China",2020.7.3064,11
+"2 km west of Sierra Gorda, N.E. Antofagasta, 2nd Region, N. Chile",2020.7.2582,11
+"Antofagasta, Chile",2020.7.2553,11
+"above Arondu, Haramosh Range, Baltistan, N.A., Pakistan",2020.7.2340,11
+"Arondu, Basha Valley, Baltistan, N.A., Pakistan",2020.7.2412,11
+"Bou Azzer, Morocco",2020.7.2856,11
+"Bou Azzer, Ouarzazate, Morocco",2020.7.2346,11
+"Brosso, Canavese Dist., Torino Prov., Piedmont, Italy",2020.7.2958,11
+"Brosso, Piedmont, Italy",2020.7.2953,11
+"Caleta Pabellon de Pica, Punta Colina, Iquique, Chile",2020.7.2499,11
+"Caleta Pabellon de Pica, Punta Colina, Iquique, Region 1, Chile",2020.7.2459,11
+"Cerro Mejillones, Mejillones peninsula, Mejillones, Region II, Chile",2020.7.2488,11
+"Cerro Mejillones peninsula, Mejillones, Region II, Chile",2020.7.2536,11
+"Chanarcillo, Copiapo, Atacama Desert, III Region, Chile",2020.7.2632,11
+"Chanarcillo, Chile",2020.7.2368,11
+"Dachang, Guangxi Autonomous Region, China ",2020.7.3082,11
+"Dachang,Guangxi Prov., China  ",2020.7.3103,11
+"Delirio Mine, inca de Oro, Chile",2020.7.2505,11
+"Delirio Mine, inca de Oro, Copiapo District, Chile",2020.7.2504,11
+"Dolores Mine, Chanarcillo, Chile",2020.7.2651,11
+"Dolores Mine, Sierra de Caracoles, Chile",2020.7.2669,11
+"Extertal, Eastern Westphalia, N. Rhine, Westphalia, Germany",2020.7.2811,11
+"Extertal, Teutoburger Forest, Rhine-Westphalia, Germany",2020.7.2900,11
+"Gavorrano, Grosseto Prov., Tuscany, Italy",2020.7.2955,11
+"Gavorrano, Tuscany, Italy",2020.7.2956,11
+"Gongcheng, Guangxi Province, China ",2020.7.3044,11
+"Gongcheng, Guangxi Province, China  ",2020.7.3029,11
+"Guilin, Gongcheng, Guangxi Province, China",2020.7.2940,11
+"Gulin, Guang Shi Prov., China",2020.7.2419,11
+"Hunan Province, China",2020.7.3016,11
+"Hunan Province, China ",2020.7.3067,11
+"Jote Mine, Pampa Larga, Tierra Amarilla, Atacama desert, Region III, Chile",2020.7.2468,11
+"Jote West Mine, Tierra Amarilla Comuna, Copiapo Province, Atacama, Chile",2020.7.2507,11
+"Kangjiawan, Shuikoushan lead zinc mine, Chaning Hunan Province, China",2020.7.3139,11
+"Kangjiawan, Shuikoushan lead zinc mine, Chaning, Hunan Province, China",2020.7.3120,11
+"Kasompi, Katanga, Congo",2020.7.3214,11
+"Kasonpo Mine, Katanga, Congo",2020.7.3202,11
+"Kohtokay Mine, Altay Mts., Xinjiang Province, Uygur A.R., China  ",2020.7.3179,11
+"Kohtokay Mine, Xinjiang Province, Uygur A.R.,China ",2020.7.2987,11
+"Konder, Khabarovsk Region, Russia",2020.7.2354,11
+"Kondor, Khabarovsk Region, Russia",2020.7.2415,11
+"La Vendida Mine, Sierra Gorda, Atacama desert, Northern Chile",2020.7.2452,11
+"La Vendida Mine, Sierra Gorda, Chile",2020.7.2527,11
+"Madan, Rhodopes Mts., Bulgaria",2020.7.2825,11
+"Madan, Rhodops Mts., Bulgaria",2020.7.2857,11
+"Mengyin, Shandong Province, China",2020.7.3003,11
+"Mengyin Kimberlite field, Yimeng Mts.,Shandond Province, China",2020.7.2979,11
+"Mina Arabia, Pachapaqui, Ancash Dept., Peru",2020.7.2752,11
+"Mina Arabia, Pachapaqui, Ancash, Peru",2020.7.2739,11
+"Mina Copaquiri, Guatacondo, Region 1, Atacama Desert, Chile",2020.7.2577,11
+"Mina Copaquiri, Guatacondo, Region 1, Iquique, Atacama Desert, Chile",2020.7.2562,11
+"Morococha, Yauli Prov., Junin Dept., Peru",2020.7.2970,11
+"Morococha Mine, Yauli Province, Junin Dept., Peru",2020.7.2678,11
+"Muzo Emerald Mine, Boyaca, Colombia",2020.7.2844,11
+"Muzo Emerald Mine, Colombia",2020.7.2416,11
+"Odikhiuchi massif, Tamyr Peninsula South, Russia",2020.7.2832,11
+"Odikhiuchi massif, Taymyr Peninsula South, Russia",2020.7.2891,11
+"Oppu Mine, Naka-Tsugaru-gun, Aomori Pref., Tohoku Reg., Honshu Island, Japan",2020.7.2957,11
+"Oppu Mine, Nishimeya-mura, Aomori Pref., Tohoku Reg., Honshu Island, Japan",2020.7.2913,11
+"Oumjrane, Morocco",2020.7.2845,11
+"Oumjrane, Sahara, Morocco",2020.7.2311,11
+"Rubtsovskiy Mine, Altai Mts., Siberia, Russia",2020.7.2824,11
+"Rubtsovskiy Mine, Altaiskiy krai, Siberia, Russia",2020.7.2349,11
+"San Martin Mine, Chiurucu, Huallanca, Bolognesi, Ancash, Peru",2020.7.2716,11
+"San Martine Mine, Chiurucu, Huanauco, Peru",2020.7.2689,11
+"Sarany, Middle Urals, Russia",2020.7.2313,11
+"Sarany area, Polar Urals, Russia",2020.7.2422,11
+"Wuzhou, Guangxi Prov.,  China",2020.7.2975,11
+"Wuzhou, Guangxi Prov., China",2020.7.3089,11
+"Xianghualing Mine, Haianghue Ridge, Linwu Co., Hunan Province,China ",2020.7.3012,11
+"Xianghualing Mine, Hsianghua Ridge, Linwu  Co., Hunan Province, China ",2020.7.3152,11
+"Yuang Yang, Yunnan Province, China ",2020.7.3150,11
+"Yuanyang County, Yunnan Province, China",2020.7.3180,11
+"Zao Feng Mine, Kun Ming City,Yunnan Province, China   ",2020.7.3026,11
+"Zao Feng Mine, Kunming,Yunnan Province, China   ",2020.7.3027,11
+"""The Electric Meatball"" Big Bertha Extension Mine, Dome Rock Mts., Yuma co., Arizona",2020.7.2424,11
+"2500' level, ZCA, #4 Mine, Fowler Ore Body, Balmat, NY",2020.7.2413,11
+"2SE Stope, Level 21 Orphan Replacement Ore Body, Camp Bird Mine, Ouray, Ouray County, Colorado",2020.7.2812,11
+"884 Mine, Guiyang Co., Chenzhou Prefecture, Hunan Province, China",2020.7.2920,11
+"Acari Mine, Nazca, Peru (chrysocolla mine)",2020.7.2674,11
+"Aggeneys, North Cape Province, South Africa",2020.7.2914,11
+"Aguas Calientes, Casapalca, Peru",2020.7.2692,11
+"Alchuri, near Hasubi, Northern Pakistan",2020.7.2333,11
+"Alexander County, North Carolina",2020.7.2420,11
+"Ambas Aguas, north of Longono, La Rioja, Spain",2020.7.2874,11
+"Amelia Mine, Boleo, Santa Rosalia, Baja California, Mexico",2020.7.2314,11
+"Amjran, Errachidia Province, Morocco",2020.7.2361,11
+"Anatari Mine, Altai, Xinjiang Province, Uygur A.R., China  ",2020.7.3092,11
+"Ancash Departmen, Peru",2020.7.2750,11
+"Baicheng ,Kunlun Mts. Xinjiang Province, Northern China",2020.7.2980,11
+"Banpo Sb Mine, Dushan, Guizhou Province, China",2020.7.3121,11
+"Baoshan, Hunan Province, China",2020.7.3008,11
+"Barranca del Sulfato, Mejillones Peninsula, Antofagasta, Region II, Chile",2020.7.2590,11
+"Barranca Mine, Coneto de Comonfort, Durango, Mexico",2020.7.2318,11
+"Bashir Mine, Kulu Valley, Kangra District, Punjab NE, Himaichal Pradesh, India",2020.7.3207,11
+"Beineu-Kyr, Turkmenistan",2020.7.2338,11
+"Beiyan Mountain, Changle, Shandong Province, China",2020.7.3002,11
+"Bejanca, Portugal",2020.7.2877,11
+"Beresovsk, Middle Urals, Russia",2020.7.2962,11
+"Berkeley Pit, Butte, Silverbow Co., Montana",2020.7.2400,11
+"Bharanpur, Gujarat, South India",2020.7.2967,11
+"Bombay, India",2020.7.2310,11
+"Boron, California",2020.7.2883,11
+"Bottino, near Seravezza, Tuscany, Italy",2020.7.2831,11
+"Bristol Copper Mine, Bristol, Hartford Co., Connecticut",2020.7.2384,11
+"Cabeza de Cachorro Mine, Floreste Amazonica, Amazonas, Brazil",2020.7.2852,11
+"Cabriza Mine, Sacramento Dist., Copiapo, Chile",2020.7.2497,11
+"Canete, Peru",2020.7.2714,11
+"Canta, Canta Province, Lima, Peru",2020.7.2823,11
+"Cantera Vereno I, (Cantero Central) Caldalso de los Vidrios, Madrid, Spain",2020.7.2383,11
+"Mina Carlota, Chanaroillo, Chile",2020.7.2636,11
+"Carolina Segunda Mine, Sierra Pampa Larga, Los Loros, Tierra Amarilla, Chile",2020.7.2517,11
+"Cattle Grit Bit, Mt. Gunison Mine, Pernatty Lagoon, South Australia",2020.7.2332,11
+"Cavradi, Grisons, Switzerland",2020.7.2887,11
+"Cerro Blanco, near Copiapo, Chile",2020.7.2458,11
+"Chashan Mine, Nandan County, Guangxi Province, China  ",2020.7.3145,11
+"Chatian, Fenghuang, Hunan Province, China",2020.7.3018,11
+"Chihuahua, Mexico",2020.7.2865,11
+"Chilena mine, Guanaco Mining Dist., near Taltal, Chile",2020.7.2571,11
+"Chubut, Patagonia, Argentina",2020.7.2411,11
+"Chun Shi, Hunan Prov., China   ",2020.7.3167,11
+"Churin Quarry, Oyon, near Lima, Peru",2020.7.2700,11
+"Claudia Mine, Pampa Larga Sur Mining Dist., Near Tierra Amarilla, Chile",2020.7.2593,11
+"Coca Cola Mine, Talcuna Mining district, Marqueza, Chile",2020.7.2631,11
+"Concepcion del Oro, Zacatecas, Mexico",2020.7.2834,11
+"Contatto Ovest stope, San Giovanni Mine, Iglesias, Sardinia, Italy",2020.7.2417,11
+"Cook's Kitchen, Illogan, Cornwall, England",2020.7.2339,11
+"Copper Queen Mine, Bisbee, Arizona",2020.7.2322,11
+"Copper Valley, 60 km. north on Brandberg Plateau, 100 km West of Uis, Namibia",2020.7.2946,11
+"Corner Pocket area, Watercourse Raise, Sweet Home Mine, Alma, Colorado",2020.7.2375,11
+"Corocoro, Bolivia",2020.7.2341,11
+"Cresson Mine, Cripple Creek, Tellur Co., Colorado",2020.7.2350,11
+"Dara-I-Pioz, Tien-Shan, Tadzhikistan, Russia",2020.7.2329,11
+"Dassu, Gilgut-Skardu area, Pakistan",2020.7.2421,11
+"Dayu Mountains, Fujian Province, China ",2020.7.3028,11
+"De'an, Jiangxi Province, China",2020.7.3155,11
+"Diamantina, Minas Gerais, Brazil",2020.7.2316,11
+"Dongchuan, Yunnan Province, China",2020.7.3193,11
+"El Hammam Mine, Meknes, Meknes-Tafkalet Region, Morocco",2020.7.2839,11
+"El Llano Mine, Carrera Pinto, Chile",2020.7.2657,11
+"El Teniente Mine, Rancagua, Cachapoal Prov., Chile",2020.7.2554,11
+"Elmwood Mine, near Carthage, Tennessee",2020.7.3218,11
+"Enganc Feliz Mine, Las Pintadas Dist., Copiapo Prov., Chile",2020.7.2587,11
+"Eulytin, Chukotka Mts., Far Eastern Russia",2020.7.2363,11
+"Excelsior Mine, Cerro de Pasco Dist., Alcides Carrion Province, Ancash Department, Peru",2020.7.2710,11
+"Exotica Mine, near Calama, El Loa Province, Antofagasta Region, Chile",2020.7.2644,11
+"Falun Mine, Falun, Dalama, Sweden",2020.7.2806,11
+"Faraday Mine, Bancroft, Ontario",2020.7.3210,11
+"Fenhuang Co., Hunan Province, China   ",2020.7.3198,11
+"Fletcher Mine, Viburnum Trend, Reynolds Co., Missouri",2020.7.2960,11
+"Fowler Quarry, Franklin, Sussex Co., New Jersey (formerly Nicoll Quarry)",2020.7.2969,11
+"Freiberg, Saxony, Germany",2020.7.2326,11
+"Furnace Quarry, Franklin, Sussex Co., New Jersey",2020.7.2954,11
+"Galbkka, near Vallivaya, Uva Province, Sri Lanka",2020.7.2343,11
+"Gan Zhi Zhou Mine, Sichuan Province, China   ",2020.7.3184,11
+"Gletch, Rhonegletscher, Switzerland",2020.7.2402,11
+"Graneros Mine, Amolanas Mining Dist., Los Loros, Atacama District, Chile",2020.7.2655,11
+"Graves Mountain, Georgia",2020.7.2850,11
+"Hardangervidda, Hordaland, Norway",2020.7.2381,11
+"Hecla Rosebud Mine, Pershing Co., Nevada",2020.7.2406,11
+"Hengyang, Hunan Prov., China",2020.7.3034,11
+"Herja Mine, Baia Mare, Maramures, Romania",2020.7.2903,11
+"Hezhou, Guangxi Province, China",2020.7.2952,11
+"Holloway Quarry, Monroe Co., Michigan",2020.7.2866,11
+"Hongxi,Meigu Sichuan Province, China",2020.7.2973,11
+"Hsianghualing, Linwe County, Hunan Province, China",2020.7.2927,11
+"Huai Xi, Guangxi Province, China",2020.7.3125,11
+"Huantajaya Mine, Iquique, Chile",2020.7.2528,11
+"Humay Mine, Quebrada, Carbonera, Acari, Dept. Arequipa, Peru",2020.7.2707,11
+"Idar-Oberstein, Germany",2020.7.2902,11
+"Ilfeld, Harz Mts., Germany",2020.7.2414,11
+"Imiter Mine, Djbel Sahro, 20 km from Ouarzazate, Anti-Atlas Mts., Morocco",2020.7.2859,11
+"inner Mongolia, China   ",2020.7.3142,11
+"Iquique, Atacama, Chile",2020.7.2639,11
+"Jakobsberg Mine, Nordmark Filipstad, Varmland, Sweden",2020.7.2829,11
+"Jardin Mine, near Copiapo, Chile",2020.7.2457,11
+"Jiangxi Prov., China",2020.7.3194,11
+"Junchaping Hg Mine, Tongren, West Hunan Prov., China",2020.7.3063,11
+"Junnila Property, Clear Creek Dist., San Benito County, California",2020.7.2390,11
+"Kambove, Katanga Prov, Congo",2020.7.2890,11
+"Kerochen, Middle Atlas Mts., Morocco",2020.7.2337,11
+"Kirengo, Rwanda",2020.7.2312,11
+"Kitka River Valley, Kuusamo, NE Finland",2020.7.2828,11
+"Kohnstein Quarry, Niedersachswerfen, Nordhausen, Harz, Thuringia, Germany",2020.7.2821,11
+"Kolonna, Uva Province, Sri Lanka",2020.7.3206,11
+"Kombat Mine, Otavi Mts., Namibia",2020.7.2372,11
+"Kunming, Yunnan Province, China",2020.7.2941,11
+"La Blanco Mine, Sector Quebradita, Freirina, Chile",2020.7.2614,11
+"Lake Manyara, Tanzania",2020.7.2385,11
+"Langban, Filipstad, Varmland, Sweden",2020.7.2851,11
+"Leiping PbZn Mine, Leyang, Hunan Province, China",2020.7.2918,11
+"Lengshuijiang Mine, Hsiu-Hua Dist., Hunan Province, China",2020.7.3189,11
+"Leonard Mine, Butte, Silverbow Co., Montana",2020.7.2911,11
+"Les Farges, Correze, France",2020.7.2901,11
+"Leshan,Sichuan Province,China ",2020.7.2996,11
+"Linashan, Guangdong Prov., China",2020.7.3007,11
+"Lindi, Tanzania",2020.7.2370,11
+"Linopolis, Minas Gerais, Brazil",2020.7.2403,11
+"Little Badger Creek, Fremont County, Colorado",2020.7.2404,11
+"Loachang Tin Mine, Gejiu, Yunnan Province, China",2020.7.3181,11
+"Loschberg Basis Tunnel, Wallis, Switzerland",2020.7.2418,11
+"Lovelock Mine, Churchill Co., Nevada",2020.7.2826,11
+"Lu City, Henan Province, China",2020.7.3069,11
+"Luishia, Katanga, Congo",2020.7.2830,11
+"Lupoto Mine, Katanga Province, Congo",2020.7.2848,11
+"MacDonald Mine, Hybla, ontario, Canada",2020.7.2884,11
+"Magallanes Mine, Palest, Antofagasta Province, Chile",2020.7.2447,11
+"Manto Cabriza, Copiapo, Chile",2020.7.2671,11
+"Manto Cuba Mine, inca de Oro, Chile",2020.7.2444,11
+"Manto Tres Gracias Mine, Diego de Almagro, Chile",2020.7.2550,11
+"Mapimi, Durango, Mexico",2020.7.2881,11
+"Mashamba West, Katanga, Congo",2020.7.2388,11
+"Menkula, Yakutia, Siberia, Russia",2020.7.2858,11
+"Men-Kyule, Tompo River Valley, 100 km NE of Khandyga, Sakha, Siberia, Russia",2020.7.2833,11
+"Merelani, Near Arusha, Tanzania",2020.7.2356,11
+"M'fouati, Bouenza Dist., Mindouli, Congo (French)",2020.7.2804,11
+"Mianyang City, Sichuan Province, China",2020.7.3143,11
+"Miguel Burnier, Minas Gerais, Brazil",2020.7.3212,11
+"Millotingo Mine, Huarochiri Province, Lima Dept., Peru",2020.7.2684,11
+"Mina Fresnillo, Zacatecas, Mexico",2020.7.2377,11
+"Mina Huaquino, Potosi, Bolivia",2020.7.2897,11
+"Mina Ivan, near Antofagasta, Chile",2020.7.2654,11
+"Mina Julcani, Huancavelica, Peru",2020.7.2672,11
+"Mina La Libertad, Quiruvilca, Peru",2020.7.2681,11
+"Mina Margarita, Sierra Gorda, Atacama Desert, Region II, Chile",2020.7.2573,11
+"Mina Ojuela, Mapimi, Durango, Mexico",2020.7.2358,11
+"Minas de Panasqueira, Portugal",2020.7.2905,11
+"Mine # 65, Dzhezkazgan, Kazakhstan",2020.7.2345,11
+"Mine de Valenciana, Cerro de Chanarcillo, Copiapo, Atacama, Chile",2020.7.2633,11
+"Mine La Motte, Reynolds County, Missouri",2020.7.2860,11
+"Mines Delight Mine, Ophir Dist., Tooele Co., Utah",2020.7.2810,11
+"Mobin Gold deposit, SW Hunan Province, China",2020.7.3009,11
+"Molina, Aragon, Spain",2020.7.2882,11
+"M'Sesa Mine, Kambove, Katanga, Congo",2020.7.2853,11
+"350 meter level, Mt. Flora, Lovozero massif, Murmansk, Kola Penin, Russia",2020.7.2352,11
+"Mt. Kara, Enga Province, Papua, New Guinea",2020.7.2348,11
+"Mt. Malosa, Zomba Dist., Malawi",2020.7.2925,11
+"Mt. McClure Mine, Leinster, Western Australia",2020.7.2391,11
+"Mubombe Mine, Katanga, Congo DR",2020.7.3203,11
+"Mulange massif, Malawi",2020.7.2409,11
+"Muli County, Lianashan Prefecture, Sichuan Province, China",2020.7.3054,11
+"N.E. of Beijing, Hebei Province, China",2020.7.3147,11
+"Namib Desert, Namibia",2020.7.2380,11
+"N'chwaning mine, Kuruman Kalahara Mn. Area, Cape Province, South West Africa",2020.7.2331,11
+"near Xingyi, between border of Guangxi Prov. And Guizhou Prov., China",2020.7.3154,11
+"Neudorf, Harz Mts., Germany",2020.7.2873,11
+New Mexico,2020.7.2876,11
+"Niedersachswerfen, Nordhausen, Germany",2020.7.2374,11
+"Nikolaevskiy Mine, Dalnegorsk, Primorskiy Kray, Eastern Russia",2020.7.2944,11
+"Nord Nickolay-Shor Mt., Polar Urals, Russia",2020.7.2362,11
+"Nordmark, Sweden",2020.7.2931,11
+"Oamaping/Zhangjiakou, Hebei Province, China",2020.7.2989,11
+"Oktober Shaft, Talnakh, Noril'sk, Russia",2020.7.2401,11
+"Outokumpu, Finland",2020.7.2893,11
+"Pabellon de Pica, Chanabaya, Tarapaca Region, Chile",2020.7.2478,11
+"Palomo & Julcani Mine, Huanchucolpa District, Hauncavelica Dept. Peru",2020.7.2756,11
+"Pimienta Mine,near Diego de Almagro, Chile",2020.7.2568,11
+"Pingtouning Mine, Guangdong Prov., China  ",2020.7.3160,11
+"Pribram, Bohemia, Czechslovakia",2020.7.2367,11
+"Pucarrajo, Ancash, Peru",2020.7.2682,11
+"Qicaishi Mine, Tienshan Co., Huangshi Pref., Hubei Prov., China",2020.7.2910,11
+"Qinjiang Mine, Jiangxi Prov., China",2020.7.2936,11
+"Quebrada, Carbonera, Acari, Dept. of Arequipa, Peru",2020.7.2677,11
+"Quebrada Blanca Mine, Collahuasi Dist., Iquique Prov., Tarapaca, Chile",2020.7.2433,11
+"Quingshan Guangxi Prov., China",2020.7.2990,11
+"Rais Mine, Polar Urals, Siberia, Russia",2020.7.2387,11
+"Rajos de California, Zapallar District, Copiapo, Atacama, Chile",2020.7.2429,11
+"Rapid Creek, Yukon Terr., Canada",2020.7.2827,11
+"Rehoboth, south of Windhoek, Namibia",2020.7.2320,11
+"Remolinas Mine, Finca de Maray, near Tierra Amarilla, Chile",2020.7.2500,11
+"Resgurado # 3 Mine, Puquios Mining District, Carrera Pinto, Chile",2020.7.2495,11
+"Riemvasmaak, Kakamas District, Northern Cape Province, South Africa",2020.7.2909,11
+"Rio Seco, Quebrada de Cordoba, Ica, Peru",2020.7.2699,11
+"Rock Island Dam, Columbia River, Washington",2020.7.2875,11
+"Rucheng, Hunan Province, China",2020.7.3101,11
+"Sage Creek, Sweetgrass Hills, 10 mi S.E. of Whitlash, Washington",2020.7.2395,11
+"San Bartolo Mine, Charcas, San Luis Potosi, Mexico",2020.7.2325,11
+"San Carlos Mine, Guanajuato, Mexico",2020.7.2309,11
+"San Genaro Mine, Huancavelica Department, Castrovirreyna District, Peru",2020.7.2703,11
+"San Juan Mine, Salado, Chile",2020.7.2502,11
+"Sao Miguel de Piracicaba, Minas Gerais, Brazil",2020.7.2892,11
+"Schwatz, Tyrol, Austria",2020.7.2379,11
+"Seimchan village, Magadan area, Russia.  ",2020.7.2843,11
+"Shandong Province, China",2020.7.2942,11
+"Shangrao, Jiangxi Prov., China",2020.7.2930,11
+"Shanua Pu Mine, Xinag Hua Ling District, Chenzhou, Hunan Prov., China",2020.7.2922,11
+"Shaoguan, Guangdong Province, China",2020.7.3053,11
+"Soga, Iquique, Region 1, Atacama Desert, Chile",2020.7.2566,11
+"Soghan, near Jiroft, Karman Province, Iran",2020.7.2359,11
+"Sokolovskiy Mine, Rudniy, Kazakhstan",2020.7.2408,11
+"Sombrerete, Zacatecas, Mexico",2020.7.2951,11
+"South Rasumssen Ridge Mine, Caribou Co., Idaho",2020.7.2836,11
+"Spruse # 17 Claim, Goldmyer Hot Springs, King Co., Washington",2020.7.2934,11
+"St. Andreasberg, Harz Mountains, Germany",2020.7.2963,11
+"Taimyr Peninsula, Siberia, Russia",2020.7.2386,11
+"Taiyuan, Shanxi Province, China",2020.7.3105,11
+"Taltal, Chile",2020.7.2539,11
+"Tamboras, Mundo Nuevo, Huamachuco, Sanchez Carrion, La Libertad, Peru",2020.7.2822,11
+"Tan Ping Mine, Guang Shi Province, China",2020.7.3078,11
+"Taouz, Morocco",2020.7.2896,11
+"Thana, India",2020.7.3221,11
+"Tieshan, N. of Daye, Hubei Province, China",2020.7.3133,11
+"Tip Top Mine, Custer County, South Dakota",2020.7.2838,11
+"Ton Lu Shan Mine, Hubei Prov., China",2020.7.2976,11
+"Tongbei, 30 km from Yunxiau, Fujian Province, China",2020.7.2802,11
+"Torrecillas Mine, Salar Grande, Iquique, Atacama desert, Region 1, Chile",2020.7.2470,11
+"Touissit, Morocco",2020.7.2895,11
+"Toyee, Waziristan, N.W Frontier, Pakistan",2020.7.2885,11
+"Transjordan Plateau, about 60 km SE of Amman City, Jordan",2020.7.2837,11
+"Tremadoc, Gwynedd, Wales, United Kingdom",2020.7.2814,11
+"Tucumanca Mine, inca de Oro, Diego de Almagro, Comuna, Chanral Prov, Chile",2020.7.2498,11
+"Twin Creeks Mine, Humboldt County, Nevada",2020.7.2410,11
+"Udo Mine, Hikawa gun, Igumo, Japan",2020.7.2912,11
+"Uitsab, near Grootfontein, Namibia",2020.7.3219,11
+"Uludag Mt., 9 miles S.E. of Bursa, Turkey",2020.7.2948,11
+unlabeled,2020.7.3083,11
+"Urucum Mine, Galileia, Minas Gerais, Brazil",2020.7.2376,11
+"valley near Mingora, Pakistan",2020.7.3216,11
+"Vieja Mine, near Portrerillos, Chile",2020.7.2463,11
+"Villabona, Asturias, Spain",2020.7.2947,11
+"Vishnovogorsk (Cherry Mt.), Vein #5, Vishnovogorsk, Chelyabinsk, Urals, Russia",2020.7.2423,11
+"Volcan Payun Matru, due West fo Malarque, Mendoza Province, Argentina",2020.7.2886,11
+"Weifang, Shandong Province, China",2020.7.3169,11
+"Well # 2, Monin Akhada, Rahuri, Maharashtra, India",2020.7.2926,11
+"Whitehorse Copper Mine, Whitehorse, Yukon Terr., Canada",2020.7.2937,11
+"Wolfsberg, Harz Mts., Germany",2020.7.2398,11
+"Wood's Chrome Mine, Texas, Lancaster Co., Pennsylvania",2020.7.2407,11
+"Wudong Mine, Liubao, Guangxi Prov.,  China",2020.7.3036,11
+"Xichang Mine, Sichuan Province, China",2020.7.2801,11
+"Xiefang, Jiangxi Province, China",2020.7.2908,11
+"Xinyi, Guizhou Prov., China",2020.7.2993,11
+"Yakutia, Siberia, Russia",2020.7.2317,11
+"Yangchun, Guangdong Province, China",2020.7.3136,11
+"Yingyang, Henan Province, China",2020.7.3149,11
+"Yinnietharra, Western Australia",2020.7.2868,11
+"Yuan River,near Huaihua City, Hunan Province, China",2020.7.2984,11
+"Yunghangping, near Tongren, Guizhou Prov., China",2020.7.2928,11
+"Zabytaya, near Dalnegorsk, Eastern Russia",2020.7.2382,11
+"Zippergate, Zaire",2020.7.2426,11
+,,0
